@@ -1,0 +1,6 @@
+INFO: User logged in successfully.
+ERROR: Failed to load resource.
+INFO: New connection established.
+WARNING: Low disk space.
+ERROR: Database connection failed.
+INFO: User logged out.

@@ -1,0 +1,7 @@
+100
+200
+-50
+abc  # This is an invalid entry and should be skipped
+350
+25.5
+-10.5
